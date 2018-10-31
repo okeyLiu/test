@@ -3,3 +3,4 @@ git , i am back!
 why can`t checkout delete file.
 test hahah .
 git branch test ...
+create a new branch is quick AND simple.
