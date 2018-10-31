@@ -1,2 +1,2 @@
 # test
-test git demo
+this repository is used to test git command
